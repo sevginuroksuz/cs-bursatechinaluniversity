@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1640033710 source:c:\users\msi21oct2021\onedrive\masaüstü\sýnav_sorularý\soru1\main.c
-	<stdio.h>
-	<stdlib.h>
-	<math.h>
-	<fenv.h>
-
